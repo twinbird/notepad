@@ -1,2 +1,7 @@
 # notepad
-notepad on browser
+
+Notepad on browser
+
+You can use it follow link.
+
+[Browser memo](https://browser-memo.pages.dev/)
